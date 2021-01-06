@@ -133,7 +133,7 @@ h2{
     width: 343.54px;
     height: 213.23px;
     float: left;
-    margin-left: 150px;
+    margin-left: 166px;
 }
 #project{
     text-align: center;
@@ -153,7 +153,7 @@ h3{
     position: absolute;
     width: 906px;
     height: 225px;
-    left: 390px;
+    left: 388px;
     top: 2116px;
     margin-top: 200px;
 }
@@ -161,8 +161,8 @@ h3{
     position: absolute;
     width: 906px;
     height: 208px;
-    left: 420px;
-    top: 2210px;
+    left: 480px;
+    top: 2206px;
     margin-top: 200px;
     color: white;
     font-family: Bebas Neue;
@@ -191,7 +191,7 @@ h3{
 }
 #btn{
     position: absolute;
-    left: 1050px;
+    left: 1033px;
     top: 2405px;
     color:white;
     border-radius: 5px;
